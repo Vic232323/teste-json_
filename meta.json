@@ -1,0 +1,12 @@
+{
+    "name": "TESET",
+    "symbol": "TST",
+    "description": "Descrição teste",
+    "image": "https://s3.wasabisys.com/instax/74/instax/2023/03/foto-de-por-do-sol-1678156462.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Climate"
+      }
+    ]
+  }
